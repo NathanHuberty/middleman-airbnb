@@ -1,0 +1,35 @@
+NathanHuberty:
+  name: "Nathan's home"
+  description: "Charming room in Stalingrad"
+  city_name: "Bordeaux, France"
+  city_slug: "bordeaux"
+  wifi: false
+  rating: 4
+valloo75:
+  name: "Valentin' home"
+  description: Small flat in Roubaix
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 3
+Malquoi:
+  name: Sébastien's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+LouisMathe:
+    name: "Louis' home"
+    description: "Cheap flat in Lyon"
+    city_name: "Lyon, France"
+    city_slug: "lyon"
+    wifi: false
+    rating: 1
+huguesto:
+    name: "Hugues' home"
+    description: "Huge appartment in Baly"
+    city_name: "Baly"
+    city_slug: "baly"
+    wifi: true
+    rating: 5
